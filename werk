@@ -1,0 +1,11 @@
+<html>
+<head>
+<scriptp>
+var numguess = 0;
+
+
+
+
+<body>
+<h1> RPS: Rock Paper Sciccors </h1>
+<p> Choose rock paper or sciccors to progress. If you need a briefing; rock beats sciccors, Sciccors beats paper, and paper beats rock </p>
